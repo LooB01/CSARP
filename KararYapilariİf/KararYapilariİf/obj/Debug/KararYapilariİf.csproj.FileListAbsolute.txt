@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\bin\Debug\KararYapilariİf.exe.config
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\bin\Debug\KararYapilariİf.exe
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\bin\Debug\KararYapilariİf.pdb
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\obj\Debug\KararYapilariİf.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\obj\Debug\KararYapilariİf.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\obj\Debug\KararYapilariİf.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\obj\Debug\KararYapilariİf.exe
+C:\Users\Muhammet\Desktop\KararYapilariİf\KararYapilariİf\obj\Debug\KararYapilariİf.pdb

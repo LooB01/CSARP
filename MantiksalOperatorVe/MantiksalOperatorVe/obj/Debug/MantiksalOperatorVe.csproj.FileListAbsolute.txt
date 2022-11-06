@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\bin\Debug\MantiksalOperatorVe.exe.config
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\bin\Debug\MantiksalOperatorVe.exe
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\bin\Debug\MantiksalOperatorVe.pdb
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\obj\Debug\MantiksalOperatorVe.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\obj\Debug\MantiksalOperatorVe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\obj\Debug\MantiksalOperatorVe.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\obj\Debug\MantiksalOperatorVe.exe
+C:\Users\Muhammet\Desktop\MantiksalOperatorVe\MantiksalOperatorVe\obj\Debug\MantiksalOperatorVe.pdb

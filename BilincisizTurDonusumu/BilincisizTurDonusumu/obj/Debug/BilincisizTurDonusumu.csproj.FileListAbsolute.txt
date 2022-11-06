@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\bin\Debug\BilincisizTurDonusumu.exe.config
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\bin\Debug\BilincisizTurDonusumu.exe
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\bin\Debug\BilincisizTurDonusumu.pdb
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.exe
+C:\Users\Muhammet\Desktop\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.pdb
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\bin\Debug\BilincisizTurDonusumu.exe.config
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\bin\Debug\BilincisizTurDonusumu.exe
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\bin\Debug\BilincisizTurDonusumu.pdb
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.exe
+C:\Users\Muhammet\Desktop\C#\BilincisizTurDonusumu\BilincisizTurDonusumu\obj\Debug\BilincisizTurDonusumu.pdb

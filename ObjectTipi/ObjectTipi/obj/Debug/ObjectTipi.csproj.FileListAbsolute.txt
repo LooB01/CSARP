@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.exe.config
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.exe
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.pdb
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.exe
+C:\Users\Muhammet\Desktop\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.pdb
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.exe.config
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.exe
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\bin\Debug\ObjectTipi.pdb
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.exe
+C:\Users\Muhammet\Desktop\C#\ObjectTipi\ObjectTipi\obj\Debug\ObjectTipi.pdb

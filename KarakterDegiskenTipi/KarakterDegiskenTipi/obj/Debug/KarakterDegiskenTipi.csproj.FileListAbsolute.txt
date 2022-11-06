@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\bin\Debug\KarakterDegiskenTipi.exe.config
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\bin\Debug\KarakterDegiskenTipi.exe
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\bin\Debug\KarakterDegiskenTipi.pdb
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\obj\Debug\KarakterDegiskenTipi.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\obj\Debug\KarakterDegiskenTipi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\obj\Debug\KarakterDegiskenTipi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\obj\Debug\KarakterDegiskenTipi.exe
+C:\Users\Muhammet\Desktop\KarakterDegiskenTipi\KarakterDegiskenTipi\obj\Debug\KarakterDegiskenTipi.pdb

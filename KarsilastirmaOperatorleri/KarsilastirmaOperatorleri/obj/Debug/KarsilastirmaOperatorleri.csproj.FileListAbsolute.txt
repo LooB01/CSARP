@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.exe.config
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.exe
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.pdb
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.exe
+C:\Users\Muhammet\Desktop\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.pdb
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.exe.config
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.exe
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\bin\Debug\KarsilastirmaOperatorleri.pdb
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.exe
+C:\Users\Muhammet\Desktop\C#\KarsilastirmaOperatorleri\KarsilastirmaOperatorleri\obj\Debug\KarsilastirmaOperatorleri.pdb

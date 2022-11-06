@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\bin\Debug\DegiskenlerMantiksal.exe.config
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\bin\Debug\DegiskenlerMantiksal.exe
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\bin\Debug\DegiskenlerMantiksal.pdb
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.exe
+C:\Users\Muhammet\Desktop\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.pdb
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\bin\Debug\DegiskenlerMantiksal.exe.config
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\bin\Debug\DegiskenlerMantiksal.exe
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\bin\Debug\DegiskenlerMantiksal.pdb
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.exe
+C:\Users\Muhammet\Desktop\C#\DegiskenlerMantiksal\DegiskenlerMantiksal\obj\Debug\DegiskenlerMantiksal.pdb

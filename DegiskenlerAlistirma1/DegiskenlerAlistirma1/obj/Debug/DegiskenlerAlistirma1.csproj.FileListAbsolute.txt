@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\bin\Debug\DegiskenlerAlistirma1.exe.config
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\bin\Debug\DegiskenlerAlistirma1.exe
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\bin\Debug\DegiskenlerAlistirma1.pdb
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.exe
+C:\Users\Muhammet\Desktop\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.pdb
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.exe
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\obj\Debug\DegiskenlerAlistirma1.pdb
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\bin\Debug\DegiskenlerAlistirma1.exe.config
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\bin\Debug\DegiskenlerAlistirma1.exe
+C:\Users\Muhammet\Desktop\C#\DegiskenlerAlistirma1\DegiskenlerAlistirma1\bin\Debug\DegiskenlerAlistirma1.pdb

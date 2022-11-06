@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\bin\Debug\DegiskenlerinDavranislari.exe.config
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\bin\Debug\DegiskenlerinDavranislari.exe
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\bin\Debug\DegiskenlerinDavranislari.pdb
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.exe
+C:\Users\Muhammet\Desktop\DegiskenlerinDavranislari\DegiskenlerinDavranislari\obj\Debug\DegiskenlerinDavranislari.pdb

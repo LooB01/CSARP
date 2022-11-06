@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\bin\Debug\AritmatikselOperatorler(carpma).exe.config
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\bin\Debug\AritmatikselOperatorler(carpma).exe
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\bin\Debug\AritmatikselOperatorler(carpma).pdb
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).exe
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).pdb
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\bin\Debug\AritmatikselOperatorler(carpma).exe.config
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\bin\Debug\AritmatikselOperatorler(carpma).exe
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\bin\Debug\AritmatikselOperatorler(carpma).pdb
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).exe
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler(carpma)\AritmatikselOperatorler(carpma)\obj\Debug\AritmatikselOperatorler(carpma).pdb

@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.exe.config
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.exe
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.pdb
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.exe
+C:\Users\Muhammet\Desktop\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.pdb
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.exe.config
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.exe
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\bin\Debug\DegiskenNedir.pdb
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.exe
+C:\Users\Muhammet\Desktop\C#\DegiskenNedir\DegiskenNedir\obj\Debug\DegiskenNedir.pdb

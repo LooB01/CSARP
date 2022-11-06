@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\bin\Debug\MantisalVeyaOperatoru.exe.config
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\bin\Debug\MantisalVeyaOperatoru.exe
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\bin\Debug\MantisalVeyaOperatoru.pdb
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\obj\Debug\MantisalVeyaOperatoru.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\obj\Debug\MantisalVeyaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\obj\Debug\MantisalVeyaOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\obj\Debug\MantisalVeyaOperatoru.exe
+C:\Users\Muhammet\Desktop\MantisalVeyaOperatoru\MantisalVeyaOperatoru\obj\Debug\MantisalVeyaOperatoru.pdb

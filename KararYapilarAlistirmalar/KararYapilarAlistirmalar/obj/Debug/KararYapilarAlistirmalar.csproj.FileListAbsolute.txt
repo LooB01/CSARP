@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\bin\Debug\KararYapilarAlistirmalar.exe.config
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\bin\Debug\KararYapilarAlistirmalar.exe
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\bin\Debug\KararYapilarAlistirmalar.pdb
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\obj\Debug\KararYapilarAlistirmalar.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\obj\Debug\KararYapilarAlistirmalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\obj\Debug\KararYapilarAlistirmalar.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\obj\Debug\KararYapilarAlistirmalar.exe
+C:\Users\Muhammet\Desktop\KararYapilarAlistirmalar\KararYapilarAlistirmalar\obj\Debug\KararYapilarAlistirmalar.pdb

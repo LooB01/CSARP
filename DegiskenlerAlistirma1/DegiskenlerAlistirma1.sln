@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenlerAlistirma1", "DegiskenlerAlistirma1\DegiskenlerAlistirma1.csproj", "{FC8CE70C-9749-4A29-8BD4-87F7C7DC4022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8CE70C-9749-4A29-8BD4-87F7C7DC4022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8CE70C-9749-4A29-8BD4-87F7C7DC4022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8CE70C-9749-4A29-8BD4-87F7C7DC4022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8CE70C-9749-4A29-8BD4-87F7C7DC4022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B4B3A2-1D43-4C4B-ABB2-E6BBB5620611}
+	EndGlobalSection
+EndGlobal

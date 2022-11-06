@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\bin\Debug\AritmatikselOperatorlerBolme.exe.config
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\bin\Debug\AritmatikselOperatorlerBolme.exe
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\bin\Debug\AritmatikselOperatorlerBolme.pdb
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\obj\Debug\AritmatikselOperatorlerBolme.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\obj\Debug\AritmatikselOperatorlerBolme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\obj\Debug\AritmatikselOperatorlerBolme.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\obj\Debug\AritmatikselOperatorlerBolme.exe
+C:\Users\Muhammet\Desktop\AritmatikselOperatorlerBolme\AritmatikselOperatorlerBolme\obj\Debug\AritmatikselOperatorlerBolme.pdb

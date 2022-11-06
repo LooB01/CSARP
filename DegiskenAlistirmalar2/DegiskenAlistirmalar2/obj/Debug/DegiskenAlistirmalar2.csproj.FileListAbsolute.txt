@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\bin\Debug\DegiskenAlistirmalar2.exe.config
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\bin\Debug\DegiskenAlistirmalar2.exe
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\bin\Debug\DegiskenAlistirmalar2.pdb
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\obj\Debug\DegiskenAlistirmalar2.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\obj\Debug\DegiskenAlistirmalar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\obj\Debug\DegiskenAlistirmalar2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\obj\Debug\DegiskenAlistirmalar2.exe
+C:\Users\Muhammet\Desktop\DegiskenAlistirmalar2\DegiskenAlistirmalar2\obj\Debug\DegiskenAlistirmalar2.pdb

@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\bin\Debug\AritmatikselOperatorler.exe.config
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\bin\Debug\AritmatikselOperatorler.exe
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\bin\Debug\AritmatikselOperatorler.pdb
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.exe
+C:\Users\Muhammet\Desktop\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.pdb
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\bin\Debug\AritmatikselOperatorler.exe.config
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\bin\Debug\AritmatikselOperatorler.exe
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\bin\Debug\AritmatikselOperatorler.pdb
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.exe
+C:\Users\Muhammet\Desktop\C#\AritmatikselOperatorler\AritmatikselOperatorler\obj\Debug\AritmatikselOperatorler.pdb

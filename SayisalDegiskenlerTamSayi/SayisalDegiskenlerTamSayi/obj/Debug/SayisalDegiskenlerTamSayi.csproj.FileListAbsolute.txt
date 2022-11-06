@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\bin\Debug\SayisalDegiskenlerTamSayi.exe.config
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\bin\Debug\SayisalDegiskenlerTamSayi.exe
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\bin\Debug\SayisalDegiskenlerTamSayi.pdb
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.exe
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.pdb
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\bin\Debug\SayisalDegiskenlerTamSayi.exe.config
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\bin\Debug\SayisalDegiskenlerTamSayi.exe
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\bin\Debug\SayisalDegiskenlerTamSayi.pdb
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.exe
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi\obj\Debug\SayisalDegiskenlerTamSayi.pdb

@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\bin\Debug\ConsoleReadlineinceleme.exe.config
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\bin\Debug\ConsoleReadlineinceleme.exe
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\bin\Debug\ConsoleReadlineinceleme.pdb
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\obj\Debug\ConsoleReadlineinceleme.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\obj\Debug\ConsoleReadlineinceleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\obj\Debug\ConsoleReadlineinceleme.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\obj\Debug\ConsoleReadlineinceleme.exe
+C:\Users\Muhammet\Desktop\ConsoleReadlineinceleme\ConsoleReadlineinceleme\obj\Debug\ConsoleReadlineinceleme.pdb

@@ -1,0 +1,16 @@
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\bin\Debug\SayisalDegiskenlerOndalikli.exe.config
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\bin\Debug\SayisalDegiskenlerOndalikli.exe
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\bin\Debug\SayisalDegiskenlerOndalikli.pdb
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.exe
+C:\Users\Muhammet\Desktop\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.pdb
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.exe
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\obj\Debug\SayisalDegiskenlerOndalikli.pdb
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\bin\Debug\SayisalDegiskenlerOndalikli.exe.config
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\bin\Debug\SayisalDegiskenlerOndalikli.exe
+C:\Users\Muhammet\Desktop\C#\SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli\bin\Debug\SayisalDegiskenlerOndalikli.pdb

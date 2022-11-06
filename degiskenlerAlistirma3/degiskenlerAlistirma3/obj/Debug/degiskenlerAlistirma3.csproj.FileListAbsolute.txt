@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\bin\Debug\degiskenlerAlistirma3.exe.config
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\bin\Debug\degiskenlerAlistirma3.exe
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\bin\Debug\degiskenlerAlistirma3.pdb
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\obj\Debug\degiskenlerAlistirma3.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\obj\Debug\degiskenlerAlistirma3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\obj\Debug\degiskenlerAlistirma3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\obj\Debug\degiskenlerAlistirma3.exe
+C:\Users\Muhammet\Desktop\degiskenlerAlistirma3\degiskenlerAlistirma3\obj\Debug\degiskenlerAlistirma3.pdb

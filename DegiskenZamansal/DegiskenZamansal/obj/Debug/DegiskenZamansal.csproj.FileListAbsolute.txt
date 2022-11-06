@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\bin\Debug\DegiskenZamansal.exe.config
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\bin\Debug\DegiskenZamansal.exe
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\bin\Debug\DegiskenZamansal.pdb
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\obj\Debug\DegiskenZamansal.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\obj\Debug\DegiskenZamansal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\obj\Debug\DegiskenZamansal.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\obj\Debug\DegiskenZamansal.exe
+C:\Users\Muhammet\Desktop\DegiskenZamansal\DegiskenZamansal\obj\Debug\DegiskenZamansal.pdb

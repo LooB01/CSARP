@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\bin\Debug\MetinselDegiskenler.exe.config
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\bin\Debug\MetinselDegiskenler.exe
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\bin\Debug\MetinselDegiskenler.pdb
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\obj\Debug\MetinselDegiskenler.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\obj\Debug\MetinselDegiskenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\obj\Debug\MetinselDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\obj\Debug\MetinselDegiskenler.exe
+C:\Users\Muhammet\Desktop\MetinselDegiskenler\MetinselDegiskenler\obj\Debug\MetinselDegiskenler.pdb

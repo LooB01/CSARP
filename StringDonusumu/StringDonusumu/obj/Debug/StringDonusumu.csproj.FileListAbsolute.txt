@@ -1,0 +1,8 @@
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\bin\Debug\StringDonusumu.exe.config
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\bin\Debug\StringDonusumu.exe
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\bin\Debug\StringDonusumu.pdb
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\obj\Debug\StringDonusumu.csproj.AssemblyReference.cache
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\obj\Debug\StringDonusumu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\obj\Debug\StringDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\obj\Debug\StringDonusumu.exe
+C:\Users\Muhammet\Desktop\StringDonusumu\StringDonusumu\obj\Debug\StringDonusumu.pdb
